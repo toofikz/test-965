@@ -1,3 +1,3 @@
 module TestPackage
-  VALUE = "test value 972"
+  VALUE = "test value 973"
 end
