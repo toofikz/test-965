@@ -1,3 +1,3 @@
 module TestPackage
-  VERSION = "1.0.3"
+  VALUE = "test value 971"
 end
